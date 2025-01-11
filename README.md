@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RunXPS
-- 👀 I’m interested in learning full-stack development and AI
-- 🌱 I’m currently learning AWS & development MERN stack
+- 👀 I’m interested in learning cybersecurity, AI, full-stack development
+- 🌱 I’m currently learning SWE principles and computer systems fundamentals
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me rkras@ad.unc.edu 
+- 📫 How to reach me rkras@ad.unc.edu or krasinski.j.ryan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love mac & cheese
 
