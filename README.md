@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Krasinski 👋
 
-### Junior in CS & Math at UNC-Chapel Hill | ex-ILM Intern | AI & Graphics Researcher
+#### **Junior in CS & Math at UNC-Chapel Hill | ex-ILM Intern | AI & Graphics Researcher**
 
 I'm a computer science and math student passionate about building high-performance systems and tackling complex AI challenges. My background is rooted in API design in Golang from my internship at ILM, and I'm currently applying those skills to machine learning and computational graphics in my research at UNC.
 
@@ -51,4 +51,4 @@ I'm a computer science and math student passionate about building high-performan
 
 ## 📫 Let's Connect
 * 🤝 You can reach me on **[LinkedIn](www.linkedin.com/in/ryan-j-krasinski)**.
-* 📄 Feel free to review my **[Professional Resume](https://github.com/RunXPS/RunXPS/blob/ece4622e626d51c1416c60ffcccc4c4064fc30c9/Ryan_Krasinski_Resume.pdf)**.
+* 📄 Feel free to review my **[Resume](https://github.com/RunXPS/RunXPS/blob/ece4622e626d51c1416c60ffcccc4c4064fc30c9/Ryan_Krasinski_Resume.pdf)**.
